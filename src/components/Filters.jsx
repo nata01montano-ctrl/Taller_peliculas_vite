@@ -32,10 +32,10 @@ function Filters({
         <option value="todos">Todos</option>
         <option value="1993">1993</option>
         <option value="1995">1995</option>
-        <option value="1997">1997</option>
+        <option value="2003">2003</option>
         <option value="2001">2001</option>
-        <option value="2008">2008</option>
-        <option value="2010">2010</option>
+        <option value="2024">2024</option>
+        <option value="2021">2021</option>
         <option value="2014">2014</option>
         <option value="2017">2017</option>
         <option value="2019">2019</option>
